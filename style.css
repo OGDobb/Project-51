@@ -1,0 +1,18 @@
+*{
+    border : solid
+    
+}
+
+body{
+    background-color : #ffffff
+    margin: 0px;
+}
+
+.origami{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 50px;
+    margin: 0px;
+    
+}
